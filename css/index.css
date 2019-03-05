@@ -1,0 +1,38 @@
+h1{
+  font-family: Lobster;
+}
+ h2, h1{
+  text-align: center;
+}
+div{
+  text-align: left;
+}
+.center {
+  margin: auto;
+  width: 20%;
+
+}
+.myPicCenter{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 25%;
+}
+body{
+  border-style: inset;
+  border-color: black;
+  padding-left: 20px;
+  border-width: thick;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.fixme{
+  display: block;
+
+
+max-width: 50%;
+max-height: 10%;
+}
